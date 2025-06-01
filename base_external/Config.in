@@ -1,0 +1,6 @@
+menu "External options"
+
+# Debug: Use relative path for now
+source "$BR2_EXTERNAL_project_base_PATH/package/aesd-assignments/Config.in"
+
+endmenu
